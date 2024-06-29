@@ -15,6 +15,12 @@ import statsmodels.api as sm
 # Preprocesado y modelado
 # ==============================================================================
 from sklearn.model_selection import train_test_split
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.compose import make_column_selector
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RepeatedKFold
 from sklearn.neighbors import KNeighborsClassifier
@@ -95,7 +101,6 @@ axes[2].tick_params(labelsize=6)
 fig.tight_layout()
 
 plt.show()
-
 
 # Variables numéricas
 # ==============================================================================
@@ -203,6 +208,7 @@ def tidy_corr_matrix(corr_mat):
 
 corr_matrix = datos.select_dtypes(include=['float64', 'int']).corr(method='pearson')
 print(tidy_corr_matrix(corr_matrix))
+print(corr_matrix)
 
 # Heatmap matriz de correlaciones
 # ==============================================================================
@@ -307,3 +313,311 @@ fig.suptitle('Distribución del precio por grupo', fontsize=10, fontweight="bold
 
 plt.show()
 
+X_train, X_test, y_train, y_test = train_test_split(
+    datos.drop('precio', axis='columns'),
+    datos['precio'],
+    train_size=0.8,
+    random_state=1234,
+    shuffle=True
+)
+
+print("Partición de entrenamento")
+print("-----------------------")
+print(y_train.describe())
+
+print("Partición de test")
+print("-----------------------")
+print(y_test.describe())
+
+# Se estandarizan las columnas numéricas y se hace one-hot-encoding de las
+# columnas cualitativas. Para mantener las columnas a las que no se les aplica
+# ninguna transformación se tiene que indicar remainder='passthrough'.
+numeric_cols = X_train.select_dtypes(include=['float64', 'int']).columns.to_list()
+cat_cols = X_train.select_dtypes(include=['object', 'category']).columns.to_list()
+
+preprocessor = ColumnTransformer(
+    [('scale', StandardScaler(), numeric_cols),
+     ('onehot', OneHotEncoder(handle_unknown='ignore'), cat_cols)],
+    remainder='passthrough')
+
+X_train_prep = preprocessor.fit_transform(X_train)
+X_test_prep = preprocessor.transform(X_test)
+
+# Convertir el output en dataframe y añadir el nombre de las columnas
+# ==============================================================================
+encoded_cat = preprocessor.named_transformers_['onehot'].get_feature_names_out(cat_cols)
+nombre_columnas = np.concatenate([numeric_cols, encoded_cat])
+X_train_prep = preprocessor.transform(X_train)
+X_train_prep = pd.DataFrame(X_train_prep, columns=nombre_columnas)
+X_train_prep.head(3)
+
+preprocessor = ColumnTransformer(
+    [('scale', StandardScaler(), numeric_cols),
+     ('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False), cat_cols)],
+    remainder='passthrough',
+    verbose_feature_names_out=False
+).set_output(transform="pandas")
+
+X_train_prep = preprocessor.fit_transform(X_train)
+X_test_prep = preprocessor.transform(X_test)
+
+print(X_train_prep.head(3))
+
+numeric_cols = X_train.select_dtypes(include=['float64', 'int']).columns.to_list()
+cat_cols = X_train.select_dtypes(include=['object', 'category']).columns.to_list()
+
+# Transformaciones para las variables numéricas
+numeric_transformer = Pipeline(
+    steps=[
+        ('imputer', SimpleImputer(strategy='median')),
+        ('scaler', StandardScaler())
+    ]
+)
+
+# Transformaciones para las variables categóricas
+categorical_transformer = Pipeline(
+    steps=[
+        ('imputer', SimpleImputer(strategy='most_frequent')),
+        ('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))
+    ]
+)
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('numeric', numeric_transformer, numeric_cols),
+        ('cat', categorical_transformer, cat_cols)
+    ],
+    remainder='passthrough',
+    verbose_feature_names_out=False
+).set_output(transform="pandas")
+
+X_train_prep = preprocessor.fit_transform(X_train)
+X_test_prep = preprocessor.transform(X_test)
+
+X_train_prep = preprocessor.fit_transform(X_train)
+X_test_prep = preprocessor.transform(X_test)
+print(X_train_prep.head(3))
+
+from sklearn import set_config
+
+set_config(display='diagram')
+
+print(preprocessor)
+
+set_config(display='text')
+
+from sklearn.linear_model import Ridge
+
+# Preprocedado
+# ==============================================================================
+
+# Identificación de columnas numéricas y categóricas
+numeric_cols = X_train.select_dtypes(include=['float64', 'int']).columns.to_list()
+cat_cols = X_train.select_dtypes(include=['object', 'category']).columns.to_list()
+
+# Transformaciones para las variables numéricas
+numeric_transformer = Pipeline(
+    steps=[('scaler', StandardScaler())]
+)
+
+# Transformaciones para las variables categóricas
+categorical_transformer = Pipeline(
+    steps=[('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))]
+)
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('numeric', numeric_transformer, numeric_cols),
+        ('cat', categorical_transformer, cat_cols)
+    ],
+    remainder='passthrough',
+    verbose_feature_names_out=False
+).set_output(transform="pandas")
+
+# Pipeline
+# ==============================================================================
+
+# Se combinan los pasos de preprocesado y el modelo en un mismo pipeline
+pipe = Pipeline([('preprocessing', preprocessor),
+                 ('modelo', Ridge())])
+
+# Train
+# ==============================================================================
+# Se asigna el resultado a _ para que no se imprima por pantalla
+_ = pipe.fit(X=X_train, y=y_train)
+
+# Validación cruzada
+# ==============================================================================
+from sklearn.model_selection import cross_val_score
+
+cv_scores = cross_val_score(
+    estimator=pipe,
+    X=X_train,
+    y=y_train,
+    scoring='neg_root_mean_squared_error',
+    cv=5
+)
+
+print(f"Métricas validación cruzada: {cv_scores}")
+print(f"Média métricas de validación cruzada: {cv_scores.mean()}")
+
+# Validación cruzada repetida
+# ==============================================================================
+from sklearn.model_selection import RepeatedKFold
+
+cv = RepeatedKFold(n_splits=5, n_repeats=5, random_state=123)
+cv_scores = cross_val_score(
+    estimator=pipe,
+    X=X_train,
+    y=y_train,
+    scoring='neg_root_mean_squared_error',
+    cv=cv
+)
+
+print(f"Métricas de validación cruzada: {cv_scores}")
+print("")
+print(f"Média métricas de validación cruzada: {cv_scores.mean()}")
+
+# Validación cruzada repetida con múltiples métricas
+# ==============================================================================
+from sklearn.model_selection import cross_validate
+
+cv = RepeatedKFold(n_splits=3, n_repeats=5, random_state=123)
+cv_scores = cross_validate(
+    estimator=pipe,
+    X=X_train,
+    y=y_train,
+    scoring=('r2', 'neg_root_mean_squared_error'),
+    cv=cv,
+    return_train_score=True
+)
+
+# Se convierte el diccionario a dataframe para facilitar la visualización
+cv_scores = pd.DataFrame(cv_scores)
+print(cv_scores)
+
+# Distribución del error de validación cruzada
+# ==============================================================================
+fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(6, 5), sharex=True)
+
+sns.kdeplot(
+    cv_scores['test_neg_root_mean_squared_error'],
+    fill=True,
+    alpha=0.3,
+    color="firebrick",
+    ax=axes[0]
+)
+sns.rugplot(
+    cv_scores['test_neg_root_mean_squared_error'],
+    color="firebrick",
+    ax=axes[0]
+)
+axes[0].set_title('neg_root_mean_squared_error', fontsize=7, fontweight="bold")
+axes[0].tick_params(labelsize=6)
+axes[0].set_xlabel("")
+
+sns.boxplot(
+    x=cv_scores['test_neg_root_mean_squared_error'],
+    ax=axes[1]
+)
+axes[1].set_title('neg_root_mean_squared_error', fontsize=7, fontweight="bold")
+axes[1].tick_params(labelsize=6)
+axes[1].set_xlabel("")
+
+fig.tight_layout()
+plt.subplots_adjust(top=0.9)
+fig.suptitle('Distribución error de validación cruzada', fontsize=10,
+             fontweight="bold")
+
+# Diagnóstico errores (residuos) de las predicciones de validación cruzada
+# ==============================================================================
+from sklearn.model_selection import cross_val_predict
+from sklearn.model_selection import KFold
+import statsmodels.api as sm
+
+# Validación cruzada
+# ==============================================================================
+cv = KFold(n_splits=5, random_state=123, shuffle=True)
+cv_prediccones = cross_val_predict(
+    estimator=pipe,
+    X=X_train,
+    y=y_train,
+    cv=cv
+)
+
+# Gráficos
+# ==============================================================================
+fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(9, 5))
+
+axes[0, 0].scatter(y_train, cv_prediccones, edgecolors=(0, 0, 0), alpha=0.4)
+axes[0, 0].plot(
+    [y_train.min(), y_train.max()],
+    [y_train.min(), y_train.max()],
+    'k--', color='black', lw=2
+)
+axes[0, 0].set_title('Valor predicho vs valor real', fontsize=10, fontweight="bold")
+axes[0, 0].set_xlabel('Real')
+axes[0, 0].set_ylabel('Predicción')
+axes[0, 0].tick_params(labelsize=7)
+
+axes[0, 1].scatter(list(range(len(y_train))), y_train - cv_prediccones,
+                   edgecolors=(0, 0, 0), alpha=0.4)
+axes[0, 1].axhline(y=0, linestyle='--', color='black', lw=2)
+axes[0, 1].set_title('Residuos del modelo', fontsize=10, fontweight="bold")
+axes[0, 1].set_xlabel('id')
+axes[0, 1].set_ylabel('Residuo')
+axes[0, 1].tick_params(labelsize=7)
+
+sns.histplot(
+    data=y_train - cv_prediccones,
+    stat="density",
+    kde=True,
+    line_kws={'linewidth': 1},
+    color="firebrick",
+    alpha=0.3,
+    ax=axes[1, 0]
+)
+
+axes[1, 0].set_title('Distribución residuos del modelo', fontsize=10,
+                     fontweight="bold")
+axes[1, 0].set_xlabel("Residuo")
+axes[1, 0].tick_params(labelsize=7)
+
+sm.qqplot(
+    y_train - cv_prediccones,
+    fit=True,
+    line='q',
+    ax=axes[1, 1],
+    color='firebrick',
+    alpha=0.4,
+    lw=2
+)
+axes[1, 1].set_title('Q-Q residuos del modelo', fontsize=10, fontweight="bold")
+axes[1, 1].tick_params(labelsize=7)
+
+fig.tight_layout()
+plt.subplots_adjust(top=0.9)
+fig.suptitle('Diagnóstico residuos', fontsize=12, fontweight="bold")
+
+plt.show()
+
+# Validación cruzada repetida paralelizada (multicore)
+# ==============================================================================
+from sklearn.model_selection import RepeatedKFold
+
+cv = RepeatedKFold(n_splits=10, n_repeats=5, random_state=123)
+cv_scores = cross_val_score(
+    estimator=pipe,
+    X=X_train,
+    y=y_train,
+    scoring='neg_root_mean_squared_error',
+    cv=cv,
+    n_jobs=-1  # todos los cores disponibles
+)
+
+print(f"Média métricas de validación cruzada: {cv_scores.mean()}")
+
+predicciones = pipe.predict(X_test)
+# Se crea un dataframe con las predicciones y el valor real
+df_predicciones = pd.DataFrame({'precio': y_test, 'prediccion': predicciones})
+print(df_predicciones.head())
