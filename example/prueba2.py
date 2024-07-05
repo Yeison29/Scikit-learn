@@ -43,9 +43,8 @@ model.fit(X_train.index.values.reshape(-1, 1), y_train.values.reshape(-1, 1))
 
 
 y_test = model.predict(datos_train['index'].values.reshape(-1, 1))
-#
-# print(x_test, y_test)
-#
+
+
 def plot_prediction(x, y, x_test, y_test, model, original_x, original_y):
     fig, ax = plt.subplots(1, 2, figsize=(8, 4), sharey=True, tight_layout=True)
     ax[0].scatter(x, y, s=50, label='Datos-Entrenamiento', alpha=0.5)
