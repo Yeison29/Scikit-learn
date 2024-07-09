@@ -1,0 +1,665 @@
+pais_id,pais,mercado,año,mes,producto,variedad,origen,precio_usd_kg,moneda_cod,moneda
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Palta/Aguacate,Avocado,Brasil,3.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Piña,Hawai,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Ciruela,s/especificar,Chile,1.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Banana,Terra,Brasil,1.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Kiwi,s/especificar,s/especificar,2.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Naranja,Baia ,Brasil,0,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Limón,Taiti,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Manzana,Fuji ,Brasil,1.94,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Mamon,Hawaii,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Mandarina,Murcot ,Brasil,,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Mango,Tommy Atkins,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Sandia,Redona,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Melón,Amerillo,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Frutilla,Común,Brasil,3.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Pera,William’s,importado,1.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Durazno,s/especificar,importado/Arg./Chile,1.98,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Uva,Niagara,Brasil,1.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Abóbora,Moranga,Brasil,0.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Abobrinha,Brasileño,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Lechuga ,Americano,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Ajo,Tipo 7,Brasil,5.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Papa,Común,Brasil,0.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Papa,Dulce Rosada,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Berenjena,s/especificar,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Remolacha,s/especificar,Brasil,0.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Brócoli,s/especificar,Brasil,1.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Cebolla,Rojo,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Zanahoria,s/especificar,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Coliflor,s/especificar,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Nabo,s/especificar,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Pepino,Común,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Ají,Rojo,Brasil,1.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Pimiento,Verde,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Repollo,Lisa,Brasil,0.17,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Enero,Tomate,Salada,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Palta/Aguacate,Avocado,Brasil,2.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Piña,Hawai,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Ciruela,s/especificar,Chile,2.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Banana,Terra,Brasil,1.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Kiwi,s/especificar,s/especificar,2.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Naranja,Baia ,Brasil,1.01,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Limón,Taiti,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Manzana,Fuji ,Brasil,2.01,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Mamon,Hawaii,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Mandarina,Murcot ,Brasil,,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Mango,Tommy Atkins,Brasil,1.12,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Sandia,Redona,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Melón,Amerillo,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Frutilla,Común,Brasil,5.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Pera,William’s,importado,1.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Durazno,s/especificar,importado/Arg./Chile,1.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Uva,Niagara,Brasil,1.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Abóbora,Moranga,Brasil,0.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Abobrinha,Brasileño,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Lechuga ,Americano,Brasil,0.99,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Ajo,Tipo 7,Brasil,5.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Papa,Común,Brasil,0.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Papa,Dulce Rosada,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Berenjena,s/especificar,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Remolacha,s/especificar,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Brócoli,s/especificar,Brasil,1.28,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Cebolla,Rojo,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Zanahoria,s/especificar,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Coliflor,s/especificar,Brasil,1.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Nabo,s/especificar,Brasil,1.2,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Pepino,Común,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Ají,Rojo,Brasil,1.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Pimiento,Verde,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Repollo,Lisa,Brasil,0.26,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Febrero,Tomate,Salada,Brasil,,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Palta/Aguacate,Avocado,Brasil,1.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Piña,Hawai,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Ciruela,s/especificar,Chile,1.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Banana,Terra,Brasil,1.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Kiwi,s/especificar,s/especificar,1.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Naranja,Baia ,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Limón,Taiti,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Manzana,Fuji ,Brasil,1.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Mamon,Hawaii,Brasil,1,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Mandarina,Murcot ,Brasil,1.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Mango,Tommy Atkins,Brasil,0.99,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Sandia,Redona,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Melón,Amerillo,Brasil,0.95,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Frutilla,Común,Brasil,5.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Pera,William’s,importado,1.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Durazno,s/especificar,importado/Arg./Chile,2.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Uva,Niagara,Brasil,2.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Abóbora,Moranga,Brasil,0.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Abobrinha,Brasileño,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Lechuga ,Americano,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Ajo,Tipo 7,Brasil,5.98,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Papa,Común,Brasil,0.44,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Papa,Dulce Rosada,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Berenjena,s/especificar,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Remolacha,s/especificar,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Brócoli,s/especificar,Brasil,1.3,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Cebolla,Rojo,Brasil,0.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Zanahoria,s/especificar,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Coliflor,s/especificar,Brasil,1.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Nabo,s/especificar,Brasil,1.16,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Pepino,Común,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Ají,Rojo,Brasil,1.11,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Pimiento,Verde,Brasil,0.83,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Repollo,Lisa,Brasil,0.3,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Marzo,Tomate,Salada,Brasil,1.19,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Palta/Aguacate,Avocado,Brasil,1.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Piña,Hawai,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Ciruela,s/especificar,Chile,2.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Banana,Terra,Brasil,1.07,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Kiwi,s/especificar,s/especificar,2.14,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Naranja,Baia ,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Limón,Taiti,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Manzana,Fuji ,Brasil,1.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Mamon,Hawaii,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Mandarina,Murcot ,Brasil,0.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Mango,Tommy Atkins,Brasil,1.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Sandia,Redona,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Melón,Amerillo,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Frutilla,Común,Brasil,5.92,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Pera,William’s,importado,1.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Durazno,s/especificar,importado/Arg./Chile,2.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Uva,Niagara,Brasil,1.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Abóbora,Moranga,Brasil,0.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Abobrinha,Brasileño,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Lechuga ,Americano,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Ajo,Tipo 7,Brasil,6.46,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Papa,Común,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Papa,Dulce Rosada,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Berenjena,s/especificar,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Remolacha,s/especificar,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Brócoli,s/especificar,Brasil,1.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Cebolla,Rojo,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Zanahoria,s/especificar,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Coliflor,s/especificar,Brasil,1.04,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Nabo,s/especificar,Brasil,1.2,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Pepino,Común,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Ají,Rojo,Brasil,1.24,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Pimiento,Verde,Brasil,1,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Repollo,Lisa,Brasil,0.33,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Abril,Tomate,Salada,Brasil,1.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Palta/Aguacate,Avocado,Brasil,1.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Piña,Hawai,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Ciruela,s/especificar,Chile,2.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Banana,Terra,Brasil,1.01,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Kiwi,s/especificar,s/especificar,4.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Naranja,Baia ,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Limón,Taiti,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Manzana,Fuji ,Brasil,1.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Mamon,Hawaii,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Mandarina,Murcot ,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Mango,Tommy Atkins,Brasil,1.11,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Sandia,Redona,Brasil,0.36,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Melón,Amerillo,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Frutilla,Común,Brasil,5.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Pera,William’s,importado,1.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Durazno,s/especificar,importado/Arg./Chile,2.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Uva,Niagara,Brasil,1.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Abóbora,Moranga,Brasil,0.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Abobrinha,Brasileño,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Lechuga ,Americano,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Ajo,Tipo 7,Brasil,6.94,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Papa,Común,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Papa,Dulce Rosada,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Berenjena,s/especificar,Brasil,0.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Remolacha,s/especificar,Brasil,0.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Brócoli,s/especificar,Brasil,0.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Cebolla,Rojo,Brasil,0.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Zanahoria,s/especificar,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Coliflor,s/especificar,Brasil,1.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Nabo,s/especificar,Brasil,0.96,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Pepino,Común,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Ají,Rojo,Brasil,1.44,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Pimiento,Verde,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Repollo,Lisa,Brasil,0.27,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Mayo,Tomate,Salada,Brasil,1.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Palta/Aguacate,Avocado,Brasil,1.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Piña,Hawai,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Ciruela,s/especificar,Chile,2.32,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Banana,Terra,Brasil,1.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Kiwi,s/especificar,s/especificar,1.83,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Naranja,Baia ,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Limón,Taiti,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Manzana,Fuji ,Brasil,1.18,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Mamon,Hawaii,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Mandarina,Murcot ,Brasil,0.44,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Mango,Tommy Atkins,Brasil,1.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Sandia,Redona,Brasil,0.46,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Melón,Amerillo,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Frutilla,Común,Brasil,4.11,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Pera,William’s,importado,1.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Durazno,s/especificar,importado/Arg./Chile,7.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Uva,Niagara,Brasil,1.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Abóbora,Moranga,Brasil,0.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Abobrinha,Brasileño,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Lechuga ,Americano,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Ajo,Tipo 7,Brasil,6.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Papa,Común,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Papa,Dulce Rosada,Brasil,0.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Berenjena,s/especificar,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Remolacha,s/especificar,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Brócoli,s/especificar,Brasil,1.11,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Cebolla,Rojo,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Zanahoria,s/especificar,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Coliflor,s/especificar,Brasil,0.9,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Nabo,s/especificar,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Pepino,Común,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Ají,Rojo,Brasil,2.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Pimiento,Verde,Brasil,1.12,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Repollo,Lisa,Brasil,0.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Junio,Tomate,Salada,Brasil,0.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Palta/Aguacate,Avocado,Brasil,1.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Piña,Hawai,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Ciruela,s/especificar,Chile,2.13,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Banana,Terra,Brasil,1.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Kiwi,s/especificar,s/especificar,2.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Naranja,Baia ,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Limón,Taiti,Brasil,1.07,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Manzana,Fuji ,Brasil,1.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Mamon,Hawaii,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Mandarina,Murcot ,Brasil,1.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Mango,Tommy Atkins,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Sandia,Redona,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Melón,Amerillo,Brasil,3.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Frutilla,Común,Brasil,1.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Pera,William’s,importado,7.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Durazno,s/especificar,importado/Arg./Chile,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Uva,Niagara,Brasil,1.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Abóbora,Moranga,Brasil,3.21,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Abobrinha,Brasileño,Brasil,1.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Lechuga ,Americano,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Ajo,Tipo 7,Brasil,2.13,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Papa,Común,Brasil,1.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Papa,Dulce Rosada,Brasil,2.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Berenjena,s/especificar,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Remolacha,s/especificar,Brasil,1.07,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Brócoli,s/especificar,Brasil,1.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Cebolla,Rojo,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Zanahoria,s/especificar,Brasil,1.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Coliflor,s/especificar,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Nabo,s/especificar,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Pepino,Común,Brasil,3.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Ají,Rojo,Brasil,1.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Pimiento,Verde,Brasil,7.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Repollo,Lisa,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Julio,Tomate,Salada,Brasil,1.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Palta/Aguacate,Avocado,Brasil,2.37,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Piña,Hawai,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Ciruela,s/especificar,Chile,1.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Banana,Terra,Brasil,1.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Kiwi,s/especificar,s/especificar,2.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Naranja,Baia ,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Limón,Taiti,Brasil,1.2,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Manzana,Fuji ,Brasil,1.08,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Mamon,Hawaii,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Mandarina,Murcot ,Brasil,1.1,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Mango,Tommy Atkins,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Sandia,Redona,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Melón,Amerillo,Brasil,3.29,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Frutilla,Común,Brasil,1.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Pera,William’s,importado,7.08,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Durazno,s/especificar,importado/Arg./Chile,1.12,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Uva,Niagara,Brasil,1.96,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Abóbora,Moranga,Brasil,0.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Abobrinha,Brasileño,Brasil,0.93,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Lechuga ,Americano,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Ajo,Tipo 7,Brasil,5.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Papa,Común,Brasil,0.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Papa,Dulce Rosada,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Berenjena,s/especificar,Brasil,1.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Remolacha,s/especificar,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Brócoli,s/especificar,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Cebolla,Rojo,Brasil,1.11,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Zanahoria,s/especificar,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Coliflor,s/especificar,Brasil,0.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Nabo,s/especificar,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Pepino,Común,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Ají,Rojo,Brasil,2.17,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Pimiento,Verde,Brasil,1.3,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Repollo,Lisa,Brasil,0.28,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Agosto,Tomate,Salada,Brasil,0.91,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Piña,Hawai,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Banana,Terra,Brasil,1.04,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Naranja,Baia ,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Limón,Taiti,Brasil,1.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Mango,Tommy Atkins,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Frutilla,Común,Brasil,2.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Uva,Niagara,Brasil,2.08,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Palta/Aguacate,Avocado,Brasil,3.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Mamon,Hawaii,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Mandarina,Cravo,Brasil,1.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Melón,Amerillo,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Manzana,Fuji ,Brasil,1.19,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Sandia,Redona,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Pera,William’s,importado,1.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Abóbora,Moranga,Brasil,0.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Abobrinha,Brasileño,Brasil,0.92,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Lechuga,Americano,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Ajo,Tipo 7,Brasil,5.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Papa,Común,Brasil,0.37,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Papa,Dulce Rosada,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Berenjena,s/especificar,Brasil,1.14,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Cebolla,Rojo,Brasil,1.07,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Zanahoria,s/especificar,Brasil,0.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Nabo,s/especificar,Brasil,0.9,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Pepino,Común,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Ají,Rojo,Brasil,2.33,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Pimiento,Verde,Brasil,1.31,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Repollo,Lisa,Brasil,0.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Tomate,Oblongo,Brasil,0.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Brócoli,s/especificar,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Coliflor,s/especificar,Brasil,0.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Septiembre,Remolacha,s/especificar,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Piña,Hawai,Brasil,0.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Banana,Terra,Brasil,0.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Naranja,Baia ,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Limón,Taiti,Brasil,2,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Mango,Tommy Atkins,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Frutilla,Común,Brasil,3.21,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Uva,Niagara,Brasil,2.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Palta/Aguacate,Avocado,Brasil,4.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Mamon,Hawaii,Brasil,0.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Mandarina,Cravo,Brasil,1.93,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Melón,Amerillo,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Manzana,Fuji ,Brasil,1.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Sandia,Redona,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Pera,William’s,importado,1.83,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Abóbora,Moranga,Brasil,0.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Abobrinha,Brasileño,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Lechuga,Americano,Brasil,0.44,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Ajo,Tipo 7,Brasil,5.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Papa,Común,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Papa,Dulce Rosada,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Berenjena,s/especificar,Brasil,1.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Cebolla,Rojo,Brasil,0.96,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Zanahoria,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Nabo,s/especificar,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Pepino,Común,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Ají,Rojo,Brasil,2.37,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Pimiento,Verde,Brasil,1.21,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Repollo,Lisa,Brasil,0.24,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Tomate,Oblongo,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Brócoli,s/especificar,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Coliflor,s/especificar,Brasil,0.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Octubre,Remolacha,s/especificar,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Piña,Hawai,Brasil,0.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Banana,Terra,Brasil,0.9,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Naranja,Baia ,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Limón,Taiti,Brasil,1.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Mango,Tommy Atkins,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Frutilla,Común,Brasil,3.15,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Uva,Niagara,Brasil,2.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Palta/Aguacate,Avocado,Brasil,4.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Mamon,Hawaii,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Mandarina,Cravo,Brasil,1.33,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Melón,Amerillo,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Manzana,Fuji ,Brasil,1.32,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Sandia,Redona,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Pera,William’s,importado,2.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Abóbora,Moranga,Brasil,0.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Abobrinha,Brasileño,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Lechuga,Americano,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Ajo,Tipo 7,Brasil,4.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Papa,Común,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Papa,Dulce Rosada,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Berenjena,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Cebolla,Rojo,Brasil,0.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Zanahoria,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Nabo,s/especificar,Brasil,0.9,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Pepino,Común,Brasil,0.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Ají,Rojo,Brasil,1.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Pimiento,Verde,Brasil,1.02,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Repollo,Lisa,Brasil,0.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Tomate,Oblongo,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Brócoli,s/especificar,Brasil,0.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Coliflor,s/especificar,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Noviembre,Remolacha,s/especificar,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Piña,Hawai,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Banana,Terra,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Naranja,Baia ,Brasil,0.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Limón,Taiti,Brasil,1.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Mango,Tommy Atkins,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Frutilla,Común,Brasil,3.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Uva,Niagara,Brasil,1.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Palta/Aguacate,Avocado,Brasil,4.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Mamon,Hawaii,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Mandarina,Cravo,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Melón,Amerillo,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Manzana,Fuji ,Brasil,1.35,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Sandia,Redona,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Pera,William’s,importado,1.96,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Abóbora,Moranga,Brasil,0.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Abobrinha,Brasileño,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Lechuga,Americano,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Ajo,Tipo 7,Brasil,4.19,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Papa,Común,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Papa,Dulce Rosada,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Berenjena,s/especificar,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Cebolla,Rojo,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Zanahoria,s/especificar,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Nabo,s/especificar,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Pepino,Común,Brasil,0.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Ají,Rojo,Brasil,1.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Pimiento,Verde,Brasil,0.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Repollo,Lisa,Brasil,0.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Tomate,Oblongo,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Brócoli,s/especificar,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Coliflor,s/especificar,Brasil,0.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2017,Diciembre,Remolacha,s/especificar,Brasil,0.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Piña,Hawai,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Banana,s/especificar,Brasil,0.83,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Naranja,Baia ,Brasil,0.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Limón,Taiti,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Mango,Tommy Atkins,Brasil,0.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Frutilla,Común,Brasil,3.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Uva,Niagara,Brasil,1.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Palta/Aguacate,Avocado,Brasil,4.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Mamon,Hawaii,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Mandarina,Cravo,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Melón,Amerillo,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Manzana,Fuji ,Brasil,1.29,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Sandia,Redona,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Pera,William’s,importado,1.94,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Abóbora,Moranga,Brasil,0.38,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Abobrinha,Brasileño,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Lechuga ,Americano,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Ajo,Tipo 7,Brasil,4.12,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Papa,Común,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Batata,Dulce Rosada,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Berenjena,s/especificar,Brasil,0.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Cebolla,Rojo,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Zanahoria,s/especificar,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Nabo,s/especificar,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Pepino,Común,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Ají,Rojo,Brasil,2.09,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Pimiento,Verde,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Repollo,Lisa,Brasil,0.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Tomate,Oblongo,Brasil,1.12,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Brócoli,s/especificar,Brasil,1.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Coliflor,s/especificar,Brasil,0.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Enero,Remolacha,s/especificar,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Piña,Hawai,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Banana,s/especificar,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Naranja,Baia ,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Limón,Taiti,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Mango,Tommy Atkins,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Frutilla,Común,Brasil,3.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Uva,Niagara,Brasil,1.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Palta/Aguacate,Avocado,Brasil,3.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Mamon,Hawaii,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Mandarina,Cravo,Brasil,1.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Melón,Amerillo,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Manzana,Fuji ,Brasil,1.92,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Sandia,Redona,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Pera,William’s,importado,1.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Abóbora,Moranga,Brasil,0.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Abobrinha,Brasileño,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Lechuga ,Americano,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Ajo,Tipo 7,Brasil,4.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Papa,Común,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Batata,Dulce Rosada,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Berenjena,s/especificar,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Cebolla,Rojo,Brasil,0.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Zanahoria,s/especificar,Brasil,0.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Nabo,s/especificar,Brasil,0.95,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Pepino,Común,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Ají,Rojo,Brasil,2.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Pimiento,Verde,Brasil,0.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Repollo,Lisa,Brasil,0.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Tomate,Oblongo,Brasil,1.14,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Brócoli,s/especificar,Brasil,1.13,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Coliflor,s/especificar,Brasil,0.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Febrero,Remolacha,s/especificar,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Piña,Hawai,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Banana,s/especificar,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Naranja,Baia ,Brasil,0.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Limón,Taiti,Brasil,1.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Mango,Tommy Atkins,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Frutilla,Común,Brasil,0.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Uva,Niagara,Brasil,2.18,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Palta/Aguacate,Avocado,Brasil,2.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Mamon,Hawaii,Brasil,0.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Mandarina,Cravo,Brasil,1.35,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Melón,Amerillo,Brasil,4.05,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Manzana,Fuji ,Brasil,1.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Sandia,Redona,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Pera,William’s,importado,1.86,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Abóbora,Moranga,Brasil,0.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Abobrinha,Brasileño,Brasil,0.6,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Lechuga ,Americano,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Ajo,Tipo 7,Brasil,4.36,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Papa,Común,Brasil,0.46,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Batata,Dulce Rosada,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Berenjena,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Cebolla,Rojo,Brasil,0.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Zanahoria,s/especificar,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Nabo,s/especificar,Brasil,0.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Pepino,Común,Brasil,1.44,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Ají,Rojo,Brasil,2.3,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Pimiento,Verde,Brasil,0.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Repollo,Lisa,Brasil,0.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Tomate,Oblongo,Brasil,1.17,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Brócoli,s/especificar,Brasil,1.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Coliflor,s/especificar,Brasil,0.95,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Marzo,Remolacha,s/especificar,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Piña,Hawai,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Banana,s/especificar,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Naranja,Baia ,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Limón,Taiti,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Mango,Tommy Atkins,Brasil,0.95,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Frutilla,Común,Brasil,4.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Uva,Niagara,Brasil,1.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Palta/Aguacate,Avocado,Brasil,1.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Mamon,Hawaii,Brasil,1.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Mandarina,Cravo,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Melón,Amerillo,Brasil,0.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Manzana,Fuji ,Brasil,1.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Sandia,Redona,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Pera,William’s,importado,1.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Abóbora,Moranga,Brasil,0.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Abobrinha,Brasileño,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Lechuga ,Americano,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Ajo,Tipo 7,Brasil,4.06,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Papa,Común,Brasil,0.46,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Batata,Dulce Rosada,Brasil,0.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Berenjena,s/especificar,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Cebolla,Rojo,Brasil,1.25,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Zanahoria,s/especificar,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Nabo,s/especificar,Brasil,0.97,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Pepino,Común,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Ají,Rojo,Brasil,1.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Pimiento,Verde,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Repollo,Lisa,Brasil,0.26,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Tomate,Oblongo,Brasil,1.1,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Brócoli,s/especificar,Brasil,1.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Coliflor,s/especificar,Brasil,1.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Abril,Remolacha,s/especificar,Brasil,0.65,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Piña,Hawai,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Banana,s/especificar,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Naranja,Baia ,Brasil,0.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Limón,Taiti,Brasil,0.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Mango,Tommy Atkins,Brasil,0.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Frutilla,Común,Brasil,4.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Uva,Niagara,Brasil,1.68,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Palta/Aguacate,Avocado,Brasil,1.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Mamon,Hawaii,Brasil,1.33,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Mandarina,Cravo,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Melón,Amerillo,Brasil,0.83,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Manzana,Fuji ,Brasil,1.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Sandia,Redona,Brasil,0.51,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Pera,William’s,importado,1.33,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Abóbora,Moranga,Brasil,0.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Abobrinha,Brasileño,Brasil,0.59,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Lechuga ,Americano,Brasil,0.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Ajo,Tipo 7,Brasil,3.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Papa,Común,Brasil,0.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Batata,Dulce Rosada,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Berenjena,s/especificar,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Cebolla,Rojo,Brasil,1.17,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Zanahoria,s/especificar,Brasil,0.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Nabo,s/especificar,Brasil,0.91,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Pepino,Común,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Ají,Rojo,Brasil,1.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Pimiento,Verde,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Repollo,Lisa,Brasil,0.25,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Tomate,Oblongo,Brasil,1.03,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Brócoli,s/especificar,Brasil,1.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Coliflor,s/especificar,Brasil,1.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Mayo,Remolacha,s/especificar,Brasil,0.61,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Piña,Hawai,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Banana,s/especificar,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Naranja,Baia ,Brasil,0.46,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Limón,Taiti,Brasil,0.8,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Mango,Tommy Atkins,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Frutilla,Común,Brasil,3.3,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Uva,Niagara,Brasil,1.36,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Palta/Aguacate,Avocado,Brasil,2.22,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Mamon,Hawaii,Brasil,0.91,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Mandarina,Cravo,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Melón,Amerillo,Brasil,0.93,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Manzana,Fuji ,Brasil,1.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Sandia,Redona,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Pera,William’s,importado,1.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Abóbora,Moranga,Brasil,0.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Abobrinha,Brasileño,Brasil,0.78,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Lechuga ,Americano,Brasil,0.43,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Ajo,Tipo 7,Brasil,4.95,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Papa,Común,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Batata,Dulce Rosada,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Berenjena,s/especificar,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Cebolla,Rojo,Brasil,1.26,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Zanahoria,s/especificar,Brasil,0.64,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Nabo,s/especificar,Brasil,0.87,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Pepino,Común,Brasil,0.53,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Ají,Rojo,Brasil,1.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Pimiento,Verde,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Repollo,Lisa,Brasil,0.26,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Tomate,Oblongo,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Brócoli,s/especificar,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Coliflor,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Junio,Remolacha,s/especificar,Brasil,0.67,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Piña,Hawai,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Banana,s/especificar,Brasil,0.7,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Naranja,Baia ,Brasil,0.45,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Limón,Taiti,Brasil,0.79,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Mango,Tommy Atkins,Brasil,0.81,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Frutilla,Común,Brasil,3.25,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Uva,Niagara,Brasil,1.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Palta/Aguacate,Avocado,Brasil,2.18,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Mamon,Hawaii,Brasil,0.89,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Mandarina,Cravo,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Melón,Amerillo,Brasil,0.91,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Manzana,Fuji ,Brasil,1.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Sandia,Redona,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Pera,William’s,importado,1.37,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Abóbora,Moranga,Brasil,0.34,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Abobrinha,Brasileño,Brasil,0.77,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Lechuga ,Americano,Brasil,0.42,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Ajo,Tipo 7,Brasil,4.88,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Papa,Común,Brasil,0.48,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Batata,Dulce Rosada,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Berenjena,s/especificar,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Cebolla,Rojo,Brasil,1.24,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Zanahoria,s/especificar,Brasil,0.63,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Nabo,s/especificar,Brasil,0.85,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Pepino,Común,Brasil,0.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Ají,Rojo,Brasil,1.21,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Pimiento,Verde,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Repollo,Lisa,Brasil,0.25,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Tomate,Oblongo,Brasil,0.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Brócoli,s/especificar,Brasil,0.72,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Coliflor,s/especificar,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Julio,Remolacha,s/especificar,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Piña,Hawai,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Banana,s/especificar,Brasil,0.73,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Naranja,Baia ,Brasil,0.57,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Limón,Taiti,Brasil,0.54,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Mango,Tommy Atkins,Brasil,0.82,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Frutilla,Común,Brasil,4.14,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Uva,Niagara,Brasil,1.56,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Palta/Aguacate,Avocado,Brasil,1.62,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Mamon,Hawaii,Brasil,1.24,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Mandarina,Cravo,Brasil,0.66,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Melón,Amerillo,Brasil,0.76,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Manzana,Fuji ,Brasil,1.37,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Sandia,Redona,Brasil,0.47,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Pera,William’s,importado,1.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Abóbora,Moranga,Brasil,0.39,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Abobrinha,Brasileño,Brasil,0.55,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Lechuga ,Americano,Brasil,0.75,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Ajo,Tipo 7,Brasil,3.52,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Papa,Común,Brasil,0.4,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Batata,Dulce Rosada,Brasil,0.49,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Berenjena,s/especificar,Brasil,0.71,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Cebolla,Rojo,Brasil,1.08,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Zanahoria,s/especificar,Brasil,0.69,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Nabo,s/especificar,Brasil,0.84,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Pepino,Común,Brasil,0.5,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Ají,Rojo,Brasil,1.58,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Pimiento,Verde,Brasil,0.74,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Repollo,Lisa,Brasil,0.23,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Tomate,Oblongo,Brasil,0.96,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Brócoli,s/especificar,Brasil,1.41,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Coliflor,s/especificar,Brasil,1.24,USD,Dolares
+76,Brasil,Mercado Ceagesp de San Pablo,2018,Agosto,Remolacha,s/especificar,Brasil,0.56,USD,Dolares
